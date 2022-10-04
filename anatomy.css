@@ -1,0 +1,19 @@
+header{
+    font-size: xx-large;
+    color: azure;
+    background-color: green;
+    border: 5px;
+    height: 50px; ;
+}
+#header1{
+    color: black;
+    font-size: medium;
+    display: flex;
+    border-top-style: solid;
+    }
+.year1{
+    position: inherit;
+    display: inline;
+    padding-left: 1%;
+    border-left-style: solid;
+}
