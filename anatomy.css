@@ -21,6 +21,6 @@ footer{
     background-color: mediumspringgreen;
 }
 .icons{
-    float: left;
+    /* float: left; */
     padding-inline: 3%;
 }
