@@ -17,3 +17,10 @@ header{
     padding-left: 1%;
     border-left-style: solid;
 }
+footer{
+    background-color: mediumspringgreen;
+}
+.icons{
+    float: left;
+    padding-inline: 3%;
+}
