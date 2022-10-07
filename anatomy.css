@@ -24,3 +24,11 @@ footer{
     /* float: left; */
     padding-inline: 3%;
 }
+a{
+    border-color: black;
+    font-size: large;
+}
+.asslink{
+    border-style: groove;
+    border-color: chartreuse;
+}
